@@ -1,0 +1,11 @@
+1. Login
+2. Register
+3. My Tests
+4. Take a Test
+5. After test submit show result
+
+Functionality and API => App
+Design => Screenshots
+
+
+

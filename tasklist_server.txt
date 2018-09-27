@@ -1,0 +1,58 @@
+
+login/get_courses:-
+
+method:-get
+0:{course_id: "0000000005", course_name: "Web Designers"}
+1:{course_id: "0000000006", course_name: "Web Developers"}
+2:{course_id: "0000000007", course_name: "Aptitude"}
+
+login/register:-
+
+method:{post}
+{}
+course_id:"0000000006"
+email_id:"test123@gmail.com"
+error_code:"NONE"
+first_name:"test"
+gender:"FEMALE"
+institute_id:"0000000004"
+last_name:"test"
+message:"Login Successfull"
+package_id:"0000000011"
+status:"success"
+student_id:"0000000329"
+
+register_ip:
+{first_name: "Pragatii", last_name: "Sanap", gender: "FEMALE", course_id: "0000000006", email_id: "sanappragati@gmail.com", …}
+course_id:"0000000006"
+institute_id:"0000000004"
+error_code:"NONE"
+first_name:"Pragatii"
+gender:"FEMALE"
+last_name:"Sanap"
+email_id:"sanappragati@gmail.com"
+package_id:"0000000011"
+student_id:"0000000341"
+password:"demo123"
+status:"success"
+message:"Login Successfull"
+
+
+course_id
+:
+"0000000005"
+email_id
+:
+"xyz@dmail.com"
+first_name
+:
+"xyz"
+gender
+:
+"FEMALE"
+last_name
+:
+"test"
+password
+:
+"123456"
